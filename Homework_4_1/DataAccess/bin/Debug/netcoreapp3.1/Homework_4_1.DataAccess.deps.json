@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Homework_4_1.DataAccess/1.0.0": {
+        "dependencies": {
+          "Homework_4_1.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Homework_4_1.DataAccess.dll": {}
+        }
+      },
+      "Homework_4_1.Entities/1.0.0": {
+        "runtime": {
+          "Homework_4_1.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework_4_1.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Homework_4_1.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

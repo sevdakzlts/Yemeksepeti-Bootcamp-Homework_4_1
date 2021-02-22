@@ -1,0 +1,15 @@
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework-Week-4\Homework_4_1\Homework_4_1.Business\obj\Debug\netcoreapp3.1\Homework_4_1.Business.csprojAssemblyReference.cache
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework-Week-4\Homework_4_1\Homework_4_1.Business\obj\Debug\netcoreapp3.1\Homework_4_1.Business.AssemblyInfoInputs.cache
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework-Week-4\Homework_4_1\Homework_4_1.Business\obj\Debug\netcoreapp3.1\Homework_4_1.Business.AssemblyInfo.cs
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework-Week-4\Homework_4_1\Homework_4_1.Business\obj\Debug\netcoreapp3.1\Homework_4_1.Business.csproj.CoreCompileInputs.cache
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework-Week-4\Homework_4_1\Homework_4_1.Business\bin\Debug\netcoreapp3.1\Homework_4_1.Entities.exe
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework-Week-4\Homework_4_1\Homework_4_1.Business\bin\Debug\netcoreapp3.1\Homework_4_1.Business.deps.json
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework-Week-4\Homework_4_1\Homework_4_1.Business\bin\Debug\netcoreapp3.1\Homework_4_1.Business.dll
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework-Week-4\Homework_4_1\Homework_4_1.Business\bin\Debug\netcoreapp3.1\Homework_4_1.Business.pdb
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework-Week-4\Homework_4_1\Homework_4_1.Business\bin\Debug\netcoreapp3.1\Homework_4_1.DataAccess.dll
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework-Week-4\Homework_4_1\Homework_4_1.Business\bin\Debug\netcoreapp3.1\Homework_4_1.Entities.dll
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework-Week-4\Homework_4_1\Homework_4_1.Business\bin\Debug\netcoreapp3.1\Homework_4_1.DataAccess.pdb
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework-Week-4\Homework_4_1\Homework_4_1.Business\bin\Debug\netcoreapp3.1\Homework_4_1.Entities.pdb
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework-Week-4\Homework_4_1\Homework_4_1.Business\obj\Debug\netcoreapp3.1\Homework_4_1.Business.csproj.CopyComplete
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework-Week-4\Homework_4_1\Homework_4_1.Business\obj\Debug\netcoreapp3.1\Homework_4_1.Business.dll
+C:\Users\Sevda KIZILTAŞ\source\repos\Homework-Week-4\Homework_4_1\Homework_4_1.Business\obj\Debug\netcoreapp3.1\Homework_4_1.Business.pdb
